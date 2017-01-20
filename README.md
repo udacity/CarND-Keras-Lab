@@ -16,4 +16,4 @@ We've prepared a Jupyter notebook that will guide you through the process of bui
 Since this is a self-assesd lab, you can view the solution by running the `traffic-sign-classification-with-keras-solution.ipynb` notebook. Make sure you're only running one notebook at a time.
 
 ## Help
-Remember that you can get assistance from your mentor, [the forums](https://carnd-udacity.atlassian.net/wiki/questions), or the [Slack channel](https://carnd.slack.com). You can also review the concepts from the previous lessons, or consult external documentation.
+Remember that you can get assistance from your mentor, Forums (click the link on the left side of the classroom), or the [Slack channel](https://carnd.slack.com). You can also review the concepts from the previous lessons, or consult external documentation.
